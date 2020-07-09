@@ -1,3 +1,4 @@
 .ipynb_checkpoints
+*_nocheck.ipynb
 .DS_Store
 data/
